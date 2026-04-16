@@ -5,6 +5,10 @@
 **Stack:** Python (pandas, numpy, matplotlib), SQL (PostgreSQL syntax)
 
 ---
+<img width="1545" height="949" alt="chart_02_score_breakdown" src="https://github.com/user-attachments/assets/b5980e8c-c442-4571-9265-e852db856281" />
+<img width="1309" height="1310" alt="chart_01_map" src="https://github.com/user-attachments/assets/a442ad56-1ff4-40b8-ae22-c6182761ca91" />
+<img width="1309" height="588" alt="chart_04_sensitivity" src="https://github.com/user-attachments/assets/082bf45e-4544-4aa2-a130-bcdb1be6d785" />
+<img width="1427" height="949" alt="chart_03_equity" src="https://github.com/user-attachments/assets/c2bd029d-1333-4ae4-8283-6246d690aaac" />
 
 ## Executive Summary
 
