@@ -1,0 +1,5 @@
+scenario,weights,top_5_wards,total_projected_trips,avg_equity_score,avg_transit_score
+Balanced (baseline),"{'demand': 0.3, 'coverage': 0.2, 'equity': 0.2, 'transit': 0.2, 'infra': 0.1}","University-Rosedale, Spadina-Fort York, Toronto Centre, Spadina-Fort York, University-Rosedale",167685,0.1,0.99
+Revenue-focused,"{'demand': 0.5, 'coverage': 0.15, 'equity': 0.05, 'transit': 0.2, 'infra': 0.1}","Spadina-Fort York, Toronto Centre, Spadina-Fort York, Toronto Centre, University-Rosedale",167685,0.09,0.99
+Equity-focused,"{'demand': 0.15, 'coverage': 0.25, 'equity': 0.4, 'transit': 0.15, 'infra': 0.05}","Scarborough Centre, Willowdale, Scarborough-Guildwood, Etobicoke North, Willowdale",27140,0.97,0.39
+Transit-integration focused,"{'demand': 0.2, 'coverage': 0.15, 'equity': 0.15, 'transit': 0.4, 'infra': 0.1}","University-Rosedale, Spadina-Fort York, Toronto Centre, Toronto Centre, Spadina-Fort York",167679,0.11,1.0
