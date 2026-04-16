@@ -12,10 +12,6 @@
 
 ## Executive Summary
 
-.... planning the next tranche of network expansion. With the system already at 1,042 stations across all 25 wards, the question is no longer *whether* to expand but *where*. Three competing pressures shape the decision: maximizing ridership (revenue), serving underserved wards (equity), and strengthening first/last-mile transit connections.
-
-This project builds a multi-criteria scoring model that evaluates 150 candidate locations against five weighted factors, selects 15 new sites with a geographic-diversity constraint, forecasts year-1 ridership, and tests the robustness of the recommendation through sensitivity analysis.
-
 **Key findings:**
 
 | Metric | Value |
@@ -37,12 +33,6 @@ The selection emphasizes equity over pure revenue maximization, consistent with 
 ---
 
 ## Business Context
-
-Between 2021 and 2025, ......... executed a 4-year Growth Plan that brought stations to all 25 wards for the first time. The next phase moves from *coverage* to *density* — adding stations within wards that already have presence but where residents still travel too far to reach one.
-
-With the 2030 target of 12–16 million rides (up from 7.8 million in 2025), every new station must carry its weight analytically. But raw ridership projection is only one input: if it were the only criterion, the system would concentrate all new investment in downtown, reinforcing existing inequity.
-
-The role of the Data Analyst in this workflow is to build the decision framework, quantify the trade-offs, and let Operations, Policy, and Finance stakeholders choose the weights transparently.
 
 ---
 
