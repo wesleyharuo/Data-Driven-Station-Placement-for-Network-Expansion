@@ -1,6 +1,6 @@
-# Project 3 — Data-Driven Station Placement for Network Expansion
+# Data-Driven Station Placement for Network Expansion
 
-**Bike Share Toronto — Capital Planning & Equity Analysis**
+**Capital Planning & Equity Analysis**
 **Author:** Wesley Haruo Kurosawa
 **Stack:** Python (pandas, numpy, matplotlib), SQL (PostgreSQL syntax)
 
@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Bike Share Toronto is planning the next tranche of network expansion. With the system already at 1,042 stations across all 25 wards, the question is no longer *whether* to expand but *where*. Three competing pressures shape the decision: maximizing ridership (revenue), serving underserved wards (equity), and strengthening first/last-mile transit connections.
+.... planning the next tranche of network expansion. With the system already at 1,042 stations across all 25 wards, the question is no longer *whether* to expand but *where*. Three competing pressures shape the decision: maximizing ridership (revenue), serving underserved wards (equity), and strengthening first/last-mile transit connections.
 
 This project builds a multi-criteria scoring model that evaluates 150 candidate locations against five weighted factors, selects 15 new sites with a geographic-diversity constraint, forecasts year-1 ridership, and tests the robustness of the recommendation through sensitivity analysis.
 
